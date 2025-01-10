@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/5469a082-c298-41fc-b1f4-7aea457109dd
 
 
 
-```markdown
+
 # Quiz_App
 
 Quiz_App is a complete quiz application built on the MERN stack, featuring user authentication and real-time performance tracking. It allows users to attempt quizzes and evaluate their performance easily within an interactive and scalable platform.
